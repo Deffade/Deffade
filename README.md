@@ -1,16 +1,14 @@
-## Hi there 👋
+## <Hello, World! />
 
-<!--
-**Deffade/Deffade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Greetings, I'm **Deffade** (or just **Def**!)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Currently learning to code, draw, and make music —
+> all so I can create weird and useful stuff!
+
+---
+
+- A place where I'll share my projects... once I actually have some.
+
+- **Current focus:** Trying to survive C++ and Math at ITMO University (CS).
